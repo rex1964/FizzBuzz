@@ -1,1 +1,1 @@
-{"version":1,"defects":{"FizzBuzzTest::testCountGiven1Return1":4},"times":{"FizzBuzzTest::testCountGiven1Return1":0.007}}
+{"version":1,"defects":{"FizzBuzzTest::testCountGiven1Return1":4,"FizzBuzzTest::testCountGiven3ReturnFizz":3},"times":{"FizzBuzzTest::testCountGiven1Return1":0.007,"FizzBuzzTest::testCountGiven3ReturnFizz":0}}
